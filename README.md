@@ -33,7 +33,7 @@ import (
 	"time"
 
 	"gopkg.in/gin-contrib/cors.v1"
-	"github.com/gin-gonic/gin"
+	"github.com/Coccodrillo/gin"
 )
 
 func main() {
