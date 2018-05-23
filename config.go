@@ -3,7 +3,7 @@ package cors
 import (
 	"net/http"
 
-	"github.com/Coccodrillo/gin"
+	"github.com/dattch/gin"
 )
 
 type cors struct {

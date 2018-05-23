@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/Coccodrillo/gin"
+	"github.com/dattch/gin"
 	"github.com/gin-contrib/cors"
 )
 
