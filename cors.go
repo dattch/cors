@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Coccodrillo/gin"
+	"github.com/dattch/gin"
 )
 
 // Config represents all available options for the middleware.

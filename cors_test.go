@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Coccodrillo/gin"
+	"github.com/dattch/gin"
 	"github.com/stretchr/testify/assert"
 )
 
